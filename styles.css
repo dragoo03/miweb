@@ -1,0 +1,56 @@
+#menu{
+    height: 50px;
+}
+#menu ul{
+    text-decoration: none;
+    list-style: none;
+    line-height: 50px;
+}
+
+.item{
+    height: 150px;
+}
+
+footer{
+    color:white;
+    background-color: #cab7b7;
+    text-align: center;
+}
+.lateral{
+    height: 250px;
+}
+
+.lateral > div{
+    height: calc(250px / 3);
+}
+
+#yulian{
+    margin:40px;
+    text-align: center;
+    align-items: center;
+}
+
+h1{
+    background-color:rgb(209, 24, 24);
+}
+
+.yulian{
+
+    color:black;    
+}
+.facebook{
+    font-size:100px;
+    width: 100px;
+    height: 100px;
+}
+#insta{
+    font-size:24px;
+
+}
+#twitter{
+    font-size:24px;
+
+}
+#body{
+    background-color: lightgray;
+}
